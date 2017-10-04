@@ -1,0 +1,13 @@
+body {  
+  background: #efefef;
+}
+.header {
+  background: #990000;
+  min-height: 100px;
+  width: auto;
+}
+.submit-button {
+  height: 50px;
+  width: 100px;
+  background: #000033;
+}
